@@ -72,7 +72,7 @@ setting).
 **Excluded URLs** - Comma separated list of website URLs you don't want
 to use vimari with. To exclude GitHub for example, provide the value
 `github.com` or `http://github.com`. It's smart and should handle all
-possible domain cases.
+possible domain cases. An example is `"http://localhost:,github.com"`.
 
 **Link Hint Characters** - Allowed characters to be used when generating
 link shortcuts.
